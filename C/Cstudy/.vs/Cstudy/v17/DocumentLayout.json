@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Cstudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B0C93E4-4D64-442A-A476-6B8F6744430D}|..\\Ch2\\Ch2.vcxproj|C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DA0334A-AF70-427A-9702-5B892C3AF973}|..\\Ch1\\Ch1.vcxproj|C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch1\\Variable.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -22,19 +25,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch2\\main.c",
+              "RelativeDocumentMoniker": "..\\Ch2\\main.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch2\\main.c",
+              "RelativeToolTip": "..\\Ch2\\main.c",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-18T07:09:33.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Variable.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch1\\Variable.c",
               "RelativeDocumentMoniker": "..\\Ch1\\Variable.c",
               "ToolTip": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch1\\Variable.c",
               "RelativeToolTip": "..\\Ch1\\Variable.c",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACUAAABDAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACUAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-17T07:28:30.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HelloWorld.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Cstudy\\HelloWorld.cpp",
               "RelativeDocumentMoniker": "HelloWorld.cpp",
@@ -42,8 +58,7 @@
               "RelativeToolTip": "HelloWorld.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-14T07:19:12.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T07:19:12.926Z"
             }
           ]
         }
