@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Cstudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AC34AC5B-A3B2-493F-9119-015826D91E9A}|..\\Ch4\\Ch4.vcxproj|C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch4\\Data.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3778FE38-A4F4-47D0-A666-D7DB53B6E136}|..\\Ch3\\Ch3.vcxproj|C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B0C93E4-4D64-442A-A476-6B8F6744430D}|..\\Ch2\\Ch2.vcxproj|C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -25,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Data.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch4\\Data.c",
+              "RelativeDocumentMoniker": "..\\Ch4\\Data.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch4\\Data.c",
+              "RelativeToolTip": "..\\Ch4\\Data.c",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAFoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-20T07:24:46.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch3\\main.c",
+              "RelativeDocumentMoniker": "..\\Ch3\\main.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch3\\main.c",
+              "RelativeToolTip": "..\\Ch3\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-20T07:23:32.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch2\\main.c",
               "RelativeDocumentMoniker": "..\\Ch2\\main.c",
@@ -37,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Variable.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch1\\Variable.c",
               "RelativeDocumentMoniker": "..\\Ch1\\Variable.c",
@@ -45,12 +77,11 @@
               "RelativeToolTip": "..\\Ch1\\Variable.c",
               "ViewState": "AQIAACEAAAAAAAAAAAAAACUAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-17T07:28:30.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T07:28:30.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HelloWorld.cpp",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Cstudy\\HelloWorld.cpp",
               "RelativeDocumentMoniker": "HelloWorld.cpp",
