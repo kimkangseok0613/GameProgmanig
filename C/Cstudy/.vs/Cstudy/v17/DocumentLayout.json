@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Cstudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3F1D675F-01E0-4768-BC7D-73F701708606}|..\\Ch7\\Ch7.vcxproj|C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B5B52F21-7CA7-4EBE-824C-BBDEE72088D6}|..\\Ch6\\Ch6.vcxproj|C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -18,6 +21,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch7\\main.c",
+              "RelativeDocumentMoniker": "..\\Ch7\\main.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch7\\main.c",
+              "RelativeToolTip": "..\\Ch7\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-25T07:05:37.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Ch6\\main.c",
               "RelativeDocumentMoniker": "..\\Ch6\\main.c",
