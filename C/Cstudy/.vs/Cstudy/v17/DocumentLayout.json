@@ -3,13 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\Cstudy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A9F31CAA-319E-4B45-B2DC-6B8E1A5E1F5B}|..\\ToyProject02\\ToyProject02.vcxproj|C:\\Users\\User\\Desktop\\GameProgmanig\\C\\ToyProject02\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F31CAA-319E-4B45-B2DC-6B8E1A5E1F5B}|..\\ToyProject02\\ToyProject02.vcxproj|C:\\Users\\User\\Desktop\\GameProgmanig\\C\\ToyProject02\\random.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F31CAA-319E-4B45-B2DC-6B8E1A5E1F5B}|..\\ToyProject02\\ToyProject02.vcxproj|C:\\Users\\User\\Desktop\\GameProgmanig\\C\\ToyProject02\\random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9F31CAA-319E-4B45-B2DC-6B8E1A5E1F5B}|..\\ToyProject02\\ToyProject02.vcxproj|C:\\Users\\User\\Desktop\\GameProgmanig\\C\\ToyProject02\\border.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9F31CAA-319E-4B45-B2DC-6B8E1A5E1F5B}|..\\ToyProject02\\ToyProject02.vcxproj|C:\\Users\\User\\Desktop\\GameProgmanig\\C\\ToyProject02\\border.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9F31CAA-319E-4B45-B2DC-6B8E1A5E1F5B}|..\\ToyProject02\\ToyProject02.vcxproj|C:\\Users\\User\\Desktop\\GameProgmanig\\C\\ToyProject02\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,24 +25,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "random.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\ToyProject02\\random.h",
+              "RelativeDocumentMoniker": "..\\ToyProject02\\random.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\ToyProject02\\random.h",
+              "RelativeToolTip": "..\\ToyProject02\\random.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-07T07:31:50.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "random.c",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\ToyProject02\\random.c",
+              "RelativeDocumentMoniker": "..\\ToyProject02\\random.c",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\ToyProject02\\random.c",
+              "RelativeToolTip": "..\\ToyProject02\\random.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-07T07:31:43.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "border.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\ToyProject02\\border.c",
               "RelativeDocumentMoniker": "..\\ToyProject02\\border.c",
               "ToolTip": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\ToyProject02\\border.c",
               "RelativeToolTip": "..\\ToyProject02\\border.c",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBcAAAAiAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-06T07:26:03.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "border.h",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\ToyProject02\\border.h",
               "RelativeDocumentMoniker": "..\\ToyProject02\\border.h",
@@ -49,13 +81,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\ToyProject02\\main.c",
               "RelativeDocumentMoniker": "..\\ToyProject02\\main.c",
               "ToolTip": "C:\\Users\\User\\Desktop\\GameProgmanig\\C\\ToyProject02\\main.c",
               "RelativeToolTip": "..\\ToyProject02\\main.c",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAAAAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwCIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-06T07:25:48.645Z",
               "EditorCaption": ""

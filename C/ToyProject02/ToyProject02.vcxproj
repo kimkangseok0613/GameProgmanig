@@ -21,9 +21,11 @@
   <ItemGroup>
     <ClCompile Include="border.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="random.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="border.h" />
+    <ClInclude Include="random.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
