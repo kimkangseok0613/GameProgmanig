@@ -28,7 +28,7 @@ int main() {
         }
         updateGame();
         render();
-        Sleep(120);
+        Sleep(speed);
     }
 
     return 0;

@@ -15,7 +15,6 @@ void Clear(void)
     system("cls");
 }
 
-
 typedef struct {
     int x, y;
 } Position;
@@ -29,6 +28,7 @@ void SetConsoleSize(int _col, int _lines)
 
 Position snake[MAX_LENGTH];
 int length = 3;
+int speed = 120;
 char direction = 'D';
 Position food;
 
@@ -53,7 +53,7 @@ void drawBorder() {
 }
 
 void spawnFood() {
-    food.x = (rand() % (WIDTH - 2)) + 1;
+    food.x = (rand() % (WIDTH - 3)) + 1;
     food.y = (rand() % (HEIGHT - 2)) + 1;
 }
 
@@ -85,11 +85,12 @@ void StartMenu(void)
 {
     while (true)
     {
-        Clear();
+        //Clear();
         gotoxy(15, 9);
         printf("Snake Game");
         gotoxy(10, 20);
         printf("please press any key");
+        Sleep(1000);
 
         if (_kbhit())
             break;
@@ -99,9 +100,11 @@ void StartMenu(void)
 void updateGame() {
     if (snake[0].x == food.x && snake[0].y == food.y) {
         length++;
+        speed -= 4;
         spawnFood();
     }
 }
+
 
 void render() {
     system("cls");
@@ -111,9 +114,11 @@ void render() {
 
     for (int i = 0; i < length; i++) {
         gotoxy(snake[i].x, snake[i].y);
-        printf(i == 0 ? "x" : "o");
+        printf(i == 0 ? "X" : "O");
     }
 
     gotoxy(0, HEIGHT + 1);
     printf("Score: %d", length - 3);
+    gotoxy(0, HEIGHT + 2);
+    printf("현재 속도: %d", speed);
 }
