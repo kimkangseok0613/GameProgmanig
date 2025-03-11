@@ -100,9 +100,24 @@ void StartMenu(void)
 void updateGame() {
     if (snake[0].x == food.x && snake[0].y == food.y) {
         length++;
-        speed -= 4;
+        
+        Speed();
+        
         spawnFood();
     }
+}
+int  Speed()
+{
+    if (speed > 50)
+    {
+        speed -= 10;
+    }
+
+}
+
+int RecordingScore()
+{
+
 }
 
 

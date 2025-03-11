@@ -1,3 +1,6 @@
 ﻿  main.c
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\main.h(109,9): warning C4013: 'Speed'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
 C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\main.c(6,21): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\main.h(122,1): warning C4716: 'Speed': 값을 반환해야 합니다.
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\main.h(127,1): warning C4716: 'RecordingScore': 값을 반환해야 합니다.
   SnakeGame2.vcxproj -> C:\Users\User\Desktop\GameProgmanig\C\Cstudy\x64\Debug\SnakeGame2.exe
