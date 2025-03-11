@@ -117,7 +117,7 @@ int  Speed()
 
 int RecordingScore()
 {
-
+    // 최고점수를 기록해서 게임중에 표시
 }
 
 
