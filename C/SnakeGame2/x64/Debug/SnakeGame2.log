@@ -1,6 +1,19 @@
 ﻿  main.c
-C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\main.h(109,9): warning C4013: 'Speed'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\main.c(6,21): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\main.h(122,1): warning C4716: 'Speed': 값을 반환해야 합니다.
-C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\main.h(127,1): warning C4716: 'RecordingScore': 값을 반환해야 합니다.
-  SnakeGame2.vcxproj -> C:\Users\User\Desktop\GameProgmanig\C\Cstudy\x64\Debug\SnakeGame2.exe
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\play.h(122,9): warning C4013: 'Speed'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\main.h(12,21): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\record.c(51,2): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\record.c(67,3): warning C4033: 'LoadRank'은(는) 값을 반환해야 합니다.
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\record.c(70,9): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\record.c(106,3): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\record.c(125,3): warning C4033: 'LoadRanks'은(는) 값을 반환해야 합니다.
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\record.c(130,7): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\record.c(150,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\record.c(152,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\main.c(16,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  record.c
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\record.c(67,3): warning C4033: 'LoadRank'은(는) 값을 반환해야 합니다.
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\record.c(106,3): warning C4013: 'strncpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\record.c(125,3): warning C4033: 'LoadRanks'은(는) 값을 반환해야 합니다.
+  코드를 생성하고 있습니다...
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\record.c(78,1): warning C4715: 'LoadRank': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\User\Desktop\GameProgmanig\C\SnakeGame2\record.c(140,1): warning C4715: 'LoadRanks': 모든 제어 경로에서 값을 반환하지는 않습니다.
